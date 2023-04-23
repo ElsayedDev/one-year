@@ -96,3 +96,5 @@ this repo created to describe what should i do in next 1 year in Navy Service (1
 - [ ] 492
 
 ---
+
+NEXT Task: Daily Work
